@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "紺色に憧れて - Longing for navy blue",
+  "base_artist": "Yuika",
+  "createdAt": "2026-02-27T06:07:52.228703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "紺色に憧れて",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/01_紺色に憧れて_『ユイカ』.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "紺色に憧れて - Longing for navy blue",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/02_紺色に憧れて_-_Longing_for_navy_blue_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "紺色に憧れて",
+      "artist": "ユイカ",
+      "has_synced": true,
+      "path": "select/03_紺色に憧れて_ユイカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紺色に憧れて",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_紺色に憧れて_『ユイカ』.txt"
+    }
+  ]
+}
